@@ -1,1 +1,1 @@
-@AGENTS.md
+# Claude Context Rules
